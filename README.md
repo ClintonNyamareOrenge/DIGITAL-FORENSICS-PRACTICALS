@@ -11,6 +11,7 @@ I will be performing practical exercises like;
    3. Network Traffic Analysis
        To analyze network traffic to detect unauthorized access or malicious activity.
        Tools: Wireshark, Zeek
+
 Prerequisites
 tools and software installed:
   Guymager (for disk imaging)
